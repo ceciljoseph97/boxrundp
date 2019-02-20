@@ -1,0 +1,416 @@
+Mono path[0] = 'C:/Users/DELL/Documents/boxRundp/boxrun_Data/Managed'
+Mono path[1] = 'C:/Users/DELL/Documents/boxRundp/boxrun_Data/Mono'
+Mono config path = 'C:/Users/DELL/Documents/boxRundp/boxrun_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/DELL/Documents/boxRundp/boxrun_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55248
+Multi-casting "[IP] 192.168.1.42 [Port] 55248 [Flags] 3 [Guid] 3793415400 [EditorId] 352087492 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-UV09QCT) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55248]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55248]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56400
+PlayerConnection already initialized - listening to [0.0.0.0:55248]
+Player data archive not found at `C:/Users/DELL/Documents/boxRundp/boxrun_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\DELL\Documents\boxRundp\boxrun_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\DELL\Documents\boxRundp\boxrun_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\DELL\Documents\boxRundp\boxrun_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\DELL\Documents\boxRundp\boxrun_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\DELL\Documents\boxRundp\boxrun_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\DELL\Documents\boxRundp\boxrun_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\DELL\Documents\boxRundp\boxrun_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\DELL\Documents\boxRundp\boxrun_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.068 seconds
+Platform assembly: C:\Users\DELL\Documents\boxRundp\boxrun_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\DELL\Documents\boxRundp\boxrun_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.051741 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 14fc -> priority: 1 
+  Thread -> id: 1918 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.443602 ms
+System memory in use before: 17.0 MB.
+System memory in use after: 17.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 339.
+Total: 0.442545 ms (FindLiveObjects: 0.044677 ms CreateObjectMapping: 0.039847 ms MarkObjects: 0.341720 ms  DeleteObjects: 0.013886 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.799163 ms
+System memory in use before: 17.5 MB.
+System memory in use after: 17.5 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 451.
+Total: 0.319381 ms (FindLiveObjects: 0.038036 ms CreateObjectMapping: 0.019923 ms MarkObjects: 0.248743 ms  DeleteObjects: 0.011471 ms)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playercollision:OnCollisionEnter(Collision) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playercollision.cs:16)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.165034 ms
+System memory in use before: 17.5 MB.
+System memory in use after: 17.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 452.
+Total: 0.879658 ms (FindLiveObjects: 0.106259 ms CreateObjectMapping: 0.101429 ms MarkObjects: 0.650234 ms  DeleteObjects: 0.016301 ms)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playercollision:OnCollisionEnter(Collision) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playercollision.cs:16)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.469322 ms
+System memory in use before: 17.5 MB.
+System memory in use after: 17.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 452.
+Total: 0.841018 ms (FindLiveObjects: 0.100221 ms CreateObjectMapping: 0.090561 ms MarkObjects: 0.629103 ms  DeleteObjects: 0.016904 ms)
+
+Level Won
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:completelevel() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:12)
+Endtrigger:OnTriggerEnter(Collider) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Endtrigger.cs:7)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 12)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.420418 ms
+System memory in use before: 18.5 MB.
+System memory in use after: 18.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 508.
+Total: 1.258207 ms (FindLiveObjects: 0.163615 ms CreateObjectMapping: 0.119541 ms MarkObjects: 0.946674 ms  DeleteObjects: 0.022338 ms)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playermovements:FixedUpdate() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playermovements.cs:34)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.702971 ms
+System memory in use before: 17.5 MB.
+System memory in use after: 17.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 508.
+Total: 1.058367 ms (FindLiveObjects: 0.120145 ms CreateObjectMapping: 0.078487 ms MarkObjects: 0.836188 ms  DeleteObjects: 0.020527 ms)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playermovements:FixedUpdate() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playermovements.cs:34)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.450606 ms
+System memory in use before: 17.5 MB.
+System memory in use after: 17.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 508.
+Total: 1.423029 ms (FindLiveObjects: 0.199236 ms CreateObjectMapping: 0.171463 ms MarkObjects: 1.023349 ms  DeleteObjects: 0.024149 ms)
+
+Level Won
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:completelevel() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:12)
+Endtrigger:OnTriggerEnter(Collider) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Endtrigger.cs:7)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 12)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.072660 ms
+System memory in use before: 19.6 MB.
+System memory in use after: 19.7 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3132.
+Total: 2.027983 ms (FindLiveObjects: 0.462469 ms CreateObjectMapping: 0.144295 ms MarkObjects: 1.388616 ms  DeleteObjects: 0.029583 ms)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playercollision:OnCollisionEnter(Collision) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playercollision.cs:16)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.180172 ms
+System memory in use before: 19.0 MB.
+System memory in use after: 19.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3132.
+Total: 1.660905 ms (FindLiveObjects: 0.428659 ms CreateObjectMapping: 0.155766 ms MarkObjects: 1.039651 ms  DeleteObjects: 0.034413 ms)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playercollision:OnCollisionEnter(Collision) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playercollision.cs:16)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.588290 ms
+System memory in use before: 19.0 MB.
+System memory in use after: 19.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3132.
+Total: 1.645208 ms (FindLiveObjects: 0.443149 ms CreateObjectMapping: 0.125579 ms MarkObjects: 1.042066 ms  DeleteObjects: 0.030791 ms)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playermovements:FixedUpdate() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playermovements.cs:34)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.624907 ms
+System memory in use before: 19.0 MB.
+System memory in use after: 19.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3132.
+Total: 1.015501 ms (FindLiveObjects: 0.245724 ms CreateObjectMapping: 0.084524 ms MarkObjects: 0.665932 ms  DeleteObjects: 0.017508 ms)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playercollision:OnCollisionEnter(Collision) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playercollision.cs:16)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.565740 ms
+System memory in use before: 19.0 MB.
+System memory in use after: 19.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3132.
+Total: 1.444161 ms (FindLiveObjects: 0.376737 ms CreateObjectMapping: 0.147314 ms MarkObjects: 0.881469 ms  DeleteObjects: 0.035621 ms)
+
+Level Won
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:completelevel() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:12)
+Endtrigger:OnTriggerEnter(Collider) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Endtrigger.cs:7)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 12)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playermovements:FixedUpdate() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playermovements.cs:34)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.775452 ms
+System memory in use before: 23.3 MB.
+System memory in use after: 23.7 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 9614.
+Total: 4.479797 ms (FindLiveObjects: 1.361447 ms CreateObjectMapping: 0.574162 ms MarkObjects: 2.468718 ms  DeleteObjects: 0.071845 ms)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playercollision:OnCollisionEnter(Collision) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playercollision.cs:16)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 23.785789 ms
+System memory in use before: 22.7 MB.
+System memory in use after: 23.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 9614.
+Total: 3.206496 ms (FindLiveObjects: 0.981087 ms CreateObjectMapping: 0.347154 ms MarkObjects: 1.828747 ms  DeleteObjects: 0.047092 ms)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playercollision:OnCollisionEnter(Collision) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playercollision.cs:16)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.335335 ms
+System memory in use before: 22.7 MB.
+System memory in use after: 23.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 9614.
+Total: 1.997192 ms (FindLiveObjects: 0.736570 ms CreateObjectMapping: 0.216744 ms MarkObjects: 1.019123 ms  DeleteObjects: 0.022338 ms)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playercollision:OnCollisionEnter(Collision) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playercollision.cs:16)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.460311 ms
+System memory in use before: 22.7 MB.
+System memory in use after: 23.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 9614.
+Total: 2.142695 ms (FindLiveObjects: 0.615217 ms CreateObjectMapping: 0.220971 ms MarkObjects: 1.284168 ms  DeleteObjects: 0.021131 ms)
+
+!!!GAME OVER!!!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:endgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:20)
+playercollision:OnCollisionEnter(Collision) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\playercollision.cs:16)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 20)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.941904 ms
+System memory in use before: 22.7 MB.
+System memory in use after: 23.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 9614.
+Total: 1.848067 ms (FindLiveObjects: 0.690685 ms CreateObjectMapping: 0.242102 ms MarkObjects: 0.892940 ms  DeleteObjects: 0.019923 ms)
+
+Level Won
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:completelevel() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:12)
+Endtrigger:OnTriggerEnter(Collider) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Endtrigger.cs:7)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 12)
+
+Level Won
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Game_Manager:completelevel() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Game_Manager.cs:12)
+Endtrigger:OnTriggerEnter(Collider) (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\Endtrigger.cs:7)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/Game_Manager.cs Line: 12)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 34.133999 ms
+System memory in use before: 19.7 MB.
+System memory in use after: 19.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.906826 ms (FindLiveObjects: 0.042865 ms CreateObjectMapping: 0.041054 ms MarkObjects: 0.405113 ms  DeleteObjects: 0.414773 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.188791 ms
+System memory in use before: 19.0 MB.
+System memory in use after: 19.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 1.112100 ms (FindLiveObjects: 0.083316 ms CreateObjectMapping: 0.088750 ms MarkObjects: 0.874224 ms  DeleteObjects: 0.060374 ms)
+
+Scene with build index: 8 couldn't be loaded because it has not been added to the build settings.
+To add a scene to the build settings use the menu File->Build Settings...
+UnityEngine.SceneManagement.SceneManager:LoadSceneAsyncNameIndexInternal(String, Int32, Boolean, Boolean)
+UnityEngine.SceneManagement.SceneManager:LoadScene(Int32, LoadSceneMode) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\SceneManagerBindings.gen.cs:120)
+UnityEngine.SceneManagement.SceneManager:LoadScene(Int32) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\SceneManagerBindings.gen.cs:115)
+creditmain:creditsmain() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\creditmain.cs:9)
+UnityEngine.Events.InvokableCall:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:154)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:35)
+UnityEngine.UI.Button:OnPointerClick(PointerEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:44)
+UnityEngine.EventSystems.ExecuteEvents:Execute(IPointerClickHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:533)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:432)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:412)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:186)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:283)
+
+[C:\buildslave\unity\build\Runtime/SceneManager/SceneManager.cpp line 132] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/SceneManagerBindings.gen.cs Line: 120)
+
+application ended
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+credits:quitgame() (at C:\Users\DELL\Documents\boxRundp\Assets\scripts\credits.cs:7)
+UnityEngine.Events.InvokableCall:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:154)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:35)
+UnityEngine.UI.Button:OnPointerClick(PointerEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:44)
+UnityEngine.EventSystems.ExecuteEvents:Execute(IPointerClickHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:533)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:432)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:412)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:186)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:283)
+ 
+(Filename: C:/Users/DELL/Documents/boxRundp/Assets/scripts/credits.cs Line: 7)
+
